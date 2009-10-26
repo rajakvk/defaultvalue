@@ -1,0 +1,9 @@
+#summary Share your views about jquery.defaultvalue
+= Introduction =
+
+I just added this plugin. Needs lot of refinement. 
+
+
+= Details =
+
+This is my first attempt. Will update soon with lot of code change, neat demo page, etc.
